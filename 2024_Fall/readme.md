@@ -83,7 +83,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Shivani Parikh
 
-- [ ] Devansh Pathak
+- [X] Devansh Pathak 🐻
 
 - [ ] Rogerio Rios
 
